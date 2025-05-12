@@ -17,7 +17,7 @@ A clear and concise description of what the bug is. If it's an API-related bug, 
 Steps to reproduce the behavior, including any relevant code snippets.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen and updated.
 
 **Screenshots/Logs**
 If applicable, add screenshots to help explain your problem. For non-graphical issues, please provide any relevant logs or stack traces.
